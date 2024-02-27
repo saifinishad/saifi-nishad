@@ -1,6 +1,6 @@
 import streamlit as st
 import numpy as np
-import matplotlib as plt
+import matplotlib.pyplot as plt
 
 # Decay constants for different elements (in arbitrary units)
 decay_constants = {
